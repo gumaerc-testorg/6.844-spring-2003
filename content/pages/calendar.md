@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 96f11506-9aa8-5ad7-4f89-a2b9bdffef4b
 ---
@@ -194,7 +196,7 @@ Week 10
 
 ### Friday
 
-*   Proof that productivity inherits up many-one reducibility (≦m). Further properties of ≦m
+*   Proof that productivity inherits up many-one reducibility (≦{{< sub "m" >}}). Further properties of ≦{{< sub "m" >}}
 
 Week 11
 -------
@@ -228,16 +230,16 @@ Week 12
 ### Wednesday
 
 *   Halting Problem for 2-Counter Machines  
-    ≤m Th(∑\*, ·)  
-    ≤m Th({1,2}\*, ·)  
-    ≤m Th(N,+,×, ≦)  
-    ≡m Th(Z,+,-, ×, ≦),
+    ≤{{< sub "m" >}} Th(∑\*, ·)  
+    ≤{{< sub "m" >}} Th({1,2}\*, ·)  
+    ≤{{< sub "m" >}} Th(N,+,×, ≦)  
+    ≡{{< sub "m" >}} Th(Z,+,-, ×, ≦),
 
 where Th(_M_) denotes the 1st-order formulas valid in model _M_
 
 ### Friday
 
-*   Complete proof that \[2-CM Halting Problem ≤m Th(∑\*, ·)\]
+*   Complete proof that \[2-CM Halting Problem ≤{{< sub "m" >}} Th(∑\*, ·)\]
 *   Observe that Halts reduces to the set of closed formulas of the form ∃_z_.G where all quantifiers in G range over subwords of _z_
 
 Week 13
@@ -253,7 +255,7 @@ Week 13
 
 ### Wednesday
 
-*   MINScheme ≡T Halts. Sketch of relative computability: The jump operation
+*   MIN{{< sub "Scheme" >}} ≡{{< sub "T" >}} Halts. Sketch of relative computability: The jump operation
 
 ### Friday
 

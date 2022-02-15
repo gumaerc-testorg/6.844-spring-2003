@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Tools
+ocw_type: CourseSection
 parent_title: Tools
+parent_type: CourseSection
 parent_uid: aaf4057a-bac7-5b9e-89ac-ae095a684679
 title: Some Scheme-Based Introductory Programming Texts
 uid: 80ec84f3-9be5-b835-b90c-5780aa8f823f
