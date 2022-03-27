@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 4e8dd40d-dbff-a8ac-64cc-e9ec108d674c
 resourcetype: Document
 title: diagnosticsol.pdf
 uid: 39c3997d-5720-3488-f499-7041be2aa9b1

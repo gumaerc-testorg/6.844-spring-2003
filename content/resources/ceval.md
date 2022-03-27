@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 4e8dd40d-dbff-a8ac-64cc-e9ec108d674c
 resourcetype: Other
 title: ceval.scm
 uid: 53d0a6f4-b476-06cc-5779-734692f1ee11

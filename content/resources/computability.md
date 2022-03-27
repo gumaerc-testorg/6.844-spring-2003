@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: bd583dbd-6c80-e65b-19c5-6a507da5b322
 resourcetype: Document
 title: computability.pdf
 uid: 60cadbac-50de-8221-1027-b50645a9f28b

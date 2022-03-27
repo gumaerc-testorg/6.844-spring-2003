@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: bd583dbd-6c80-e65b-19c5-6a507da5b322
 resourcetype: Document
 title: comput2.pdf
 uid: a783254d-f35a-db71-0c48-318ad5eff59a

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: bd583dbd-6c80-e65b-19c5-6a507da5b322
 resourcetype: Document
 title: semigroups.pdf
 uid: 9c964077-316f-0d4b-3663-3294a1c3c214

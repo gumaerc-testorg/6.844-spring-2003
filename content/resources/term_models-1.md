@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 4e8dd40d-dbff-a8ac-64cc-e9ec108d674c
 resourcetype: Document
 title: term_models.pdf
 uid: 97bdf452-fa67-27c2-f3ff-b7719197d362

@@ -62,34 +62,34 @@ Week 3
 ### Friday
 
 *   Exercise: Convert a tree proof to a substitution proof ([PDF]({{< baseurl >}}/resources/subst_proof))
-*   Scheme code ([SCM](/courses/electrical-engineering-and-computer-science/6-844-computability-theory-of-and-with-scheme-spring-2003/tools/mccamanttreeproof.scm)) for the conversion
+*   Scheme code ([SCM]({{< baseurl >}}/resources/mccamanttreeproof)) for the conversion
 *   Arithmetic inequalities
-*   Pattern matcher match.scm ([SCM](/courses/electrical-engineering-and-computer-science/6-844-computability-theory-of-and-with-scheme-spring-2003/tools/match.scm))
+*   Pattern matcher match.scm ([SCM]({{< baseurl >}}/resources/match))
 
 Week 4
 ------
 
 ### Readings
 
-*   Pattern matcher match.scm ([SCM](/courses/electrical-engineering-and-computer-science/6-844-computability-theory-of-and-with-scheme-spring-2003/tools/match.scm))
-*   Pattern-match based procedure proof-match.scm  ([SCM](/courses/electrical-engineering-and-computer-science/6-844-computability-theory-of-and-with-scheme-spring-2003/tools/proofmatch.scm)) for converting a sequence-of-equations proof into a tree proof
+*   Pattern matcher match.scm ([SCM]({{< baseurl >}}/resources/match))
+*   Pattern-match based procedure proof-match.scm  ([SCM]({{< baseurl >}}/resources/proofmatch)) for converting a sequence-of-equations proof into a tree proof
 *   Notes 2: Substitution into Arithmetic Expressions ([PDF]({{< baseurl >}}/resources/subst))
-*   Also, from last week, see Scheme code for converting a tree proof to a substitution proof ([SCM](/courses/electrical-engineering-and-computer-science/6-844-computability-theory-of-and-with-scheme-spring-2003/tools/mccamanttreeproof.scm))
+*   Also, from last week, see Scheme code for converting a tree proof to a substitution proof ([SCM]({{< baseurl >}}/resources/mccamanttreeproof))
 
 ### Monday
 
 *   Structural induction proof of the Substitution Lemma and Soundness of Substitution Proofs (see Notes 2: Substitution into Arithmetic Expressions ([PDF]({{< baseurl >}}/resources/subst)))
-*   Intro to pattern matching, with pattern-match based procedure proof-match.scm ([SCM](/courses/electrical-engineering-and-computer-science/6-844-computability-theory-of-and-with-scheme-spring-2003/tools/proofmatch.scm)) for converting a sequence-of-equations proof into a tree proof
+*   Intro to pattern matching, with pattern-match based procedure proof-match.scm ([SCM]({{< baseurl >}}/resources/proofmatch)) for converting a sequence-of-equations proof into a tree proof
 
 ### Wednesday
 
 *   Review of Notes 2: Substitution into Arithmetic Expressions ([PDF]({{< baseurl >}}/resources/subst))
 *   Problem for Friday: We extend Arithmetic Expressions with another case called an application
-*   "Doctor" program using unnested matching eliza.scm ([SCM](/courses/electrical-engineering-and-computer-science/6-844-computability-theory-of-and-with-scheme-spring-2003/tools/eliza.scm))
+*   "Doctor" program using unnested matching eliza.scm ([SCM]({{< baseurl >}}/resources/eliza))
 
 ### Friday
 
-*   Discussion of using match/rewrite rules to put arithmetic expressions (possibly extended with applications and a derivative operator) into canonical form. An example is in deriv-simplify-rules.scm ([SCM](/courses/electrical-engineering-and-computer-science/6-844-computability-theory-of-and-with-scheme-spring-2003/tools/derivsimplifyrules.scm)); this version uses the alphabetized sum-of-monomials canonical form rather than the one-variable-polynomial-with-polynomial-coefficients canonical form of the Notes
+*   Discussion of using match/rewrite rules to put arithmetic expressions (possibly extended with applications and a derivative operator) into canonical form. An example is in deriv-simplify-rules.scm ([SCM]({{< baseurl >}}/resources/derivsimplifyrules)); this version uses the alphabetized sum-of-monomials canonical form rather than the one-variable-polynomial-with-polynomial-coefficients canonical form of the Notes
 *   Intro to Scheme Substitution Model
 
 Week 5
@@ -103,7 +103,7 @@ Week 5
 ### Monday
 
 *   Bring your laptop loaded with the [files]({{< baseurl >}}/pages/tools) for running the Substitution Model
-*   Observe the submodel running on expressions in test-submodel.scm ([SCM](/courses/electrical-engineering-and-computer-science/6-844-computability-theory-of-and-with-scheme-spring-2003/tools/testsubmodel.scm))
+*   Observe the submodel running on expressions in test-submodel.scm ([SCM]({{< baseurl >}}/resources/testsubmodel))
 
 ### Wednesday
 
@@ -111,7 +111,7 @@ Week 5
 
 ### Friday
 
-*   Further example file for Substitution Model evaluation politician.scm ([SCM](/courses/electrical-engineering-and-computer-science/6-844-computability-theory-of-and-with-scheme-spring-2003/tools/politician.scm))
+*   Further example file for Substitution Model evaluation politician.scm ([SCM]({{< baseurl >}}/resources/politician))
 
 Week 6
 ------

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 4e8dd40d-dbff-a8ac-64cc-e9ec108d674c
 resourcetype: Other
 title: meval.scm
 uid: 18eccb95-7a94-b4f3-93b4-80a10ca5d4f5

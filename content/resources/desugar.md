@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 4e8dd40d-dbff-a8ac-64cc-e9ec108d674c
 resourcetype: Other
 title: desugar.scm
 uid: feeec1a0-9b94-ab04-506b-e8098cda4278

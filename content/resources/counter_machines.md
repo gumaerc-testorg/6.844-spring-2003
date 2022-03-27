@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: bd583dbd-6c80-e65b-19c5-6a507da5b322
 resourcetype: Document
 title: counter_machines.pdf
 uid: b3cd4c14-0068-033a-a77d-3531c35ae049

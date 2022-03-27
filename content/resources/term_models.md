@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: bd583dbd-6c80-e65b-19c5-6a507da5b322
 resourcetype: Document
 title: term_models.pdf
 uid: 2d8112ce-89db-b4c2-a65b-cdc66f448c74
