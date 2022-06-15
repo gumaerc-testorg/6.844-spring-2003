@@ -1,9 +1,14 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: 06160168-2dc1-44e9-6dc8-bbba26be5458
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times
@@ -20,7 +25,7 @@ This is an graduate introduction to Programming Theory, Logic of Programming, an
 Prerequisites
 -------------
 
-The prerequisites for the course are [6.001](/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005) and [6.042](/courses/6-042j-mathematics-for-computer-science-fall-2010/) or equivalent background in Scheme programming and Discrete Mathematics.
+The prerequisites for the course are [6.001](/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005) and [6.042](/courses/6-042j-mathematics-for-computer-science-fall-2010) or equivalent background in Scheme programming and Discrete Mathematics.
 
 Staff
 -----
@@ -30,7 +35,7 @@ The course instructor is Prof. Albert R. Meyer. There are no TA's or graders.
 Textbooks and Readings
 ----------------------
 
-There are no required texts. Course Notes and excerpts from various references and papers will be posted on the website as needed. A detailed schedule including daily lecture topics will appear in the [course calendar]({{< baseurl >}}/pages/calendar).
+There are no required texts. Course Notes and excerpts from various references and papers will be posted on the website as needed. A detailed schedule including daily lecture topics will appear in the {{% resource_link 96f11506-9aa8-5ad7-4f89-a2b9bdffef4b "course calendar" %}}.
 
 Problem Sets
 ------------

@@ -4,7 +4,7 @@ description: sm.scm (SCM) A Scheme Substitution Model interpreter based on patte
   rewrite rules. This file begins with a brief intro to the Scheme Substitution Model,
   along with further instructions for running the interpreter. Use a Loader file to
   load the interpreter
-file: /media/courses/6-844-computability-theory-of-and-with-scheme-spring-2003/94b08770d013cf7eea8c7c8788e84d24_sm.scm
+file: /courses/6-844-computability-theory-of-and-with-scheme-spring-2003/94b08770d013cf7eea8c7c8788e84d24_sm.scm
 file_type: text/plain
 learning_resource_types:
 - Tools
@@ -16,3 +16,5 @@ resourcetype: Other
 title: sm.scm
 uid: 94b08770-d013-cf7e-ea8c-7c8788e84d24
 ---
+sm.scm (SCM) A Scheme Substitution Model interpreter based on pattern-matching rewrite rules. This file begins with a brief intro to the Scheme Substitution Model, along with further instructions for running the interpreter. Use a Loader file to load the interpreter
+

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Tools
 ocw_type: CourseSection
@@ -8,6 +9,10 @@ parent_type: CourseSection
 parent_uid: aaf4057a-bac7-5b9e-89ac-ae095a684679
 title: Some Scheme-Based Introductory Programming Texts
 uid: 80ec84f3-9be5-b835-b90c-5780aa8f823f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 *   [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262510875) Harold Abelson and Gerald Jay Sussman. _Structure and Interpretation of Computer Programs_, second edition. MIT Press, 1996. 657pp. ISBN: 9780262510875.
