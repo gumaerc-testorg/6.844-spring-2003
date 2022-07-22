@@ -7,6 +7,7 @@ file: /courses/6-844-computability-theory-of-and-with-scheme-spring-2003/8c07e44
 file_type: text/plain
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: mccamanttreeproof.scm
 uid: 8c07e44b-7df1-b390-7dc6-fb5700f2ae99
 ---
 Scheme code for the conversion of a tree proof to a substitution proof:  Given a purported tree proof of "e = f", return a list of steps in a substitution proof of the same fact, inclusive of "e" but exclusive of "f".
-

@@ -5,6 +5,7 @@ file: /courses/6-844-computability-theory-of-and-with-scheme-spring-2003/3b86253
 file_type: text/plain
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: testsubmodel.scm
 uid: 3b862539-b20d-7db5-311e-54ae9c449fb7
 ---
 Sample expression to evaluate in the Substitution Model.
-

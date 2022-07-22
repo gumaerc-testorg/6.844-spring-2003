@@ -6,6 +6,7 @@ file: /courses/6-844-computability-theory-of-and-with-scheme-spring-2003/8112d60
 file_type: text/plain
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: match.scm
 uid: 8112d601-8e07-f3f6-2390-a92f1b8247f2
 ---
 match.scm (SCM) Procedures for pattern matching with "context variables," as explained at the beginning of the file.
-

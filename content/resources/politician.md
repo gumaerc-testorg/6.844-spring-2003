@@ -7,6 +7,7 @@ file: /courses/6-844-computability-theory-of-and-with-scheme-spring-2003/b61e97e
 file_type: text/plain
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: politician.scm
 uid: b61e97e7-49ad-d33f-3195-caea76adc59f
 ---
 First illustration the object constructor concept: the class of State-machines with object constructor MAKE-STATE-MACHINE.  Sample expression to evaluate in the Substitution Model.
-

@@ -5,6 +5,7 @@ file: /courses/6-844-computability-theory-of-and-with-scheme-spring-2003/13d6b73
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Problem set for Computability Theory of and with scheme.
-

@@ -5,6 +5,7 @@ file: /courses/6-844-computability-theory-of-and-with-scheme-spring-2003/53d0a6f
 file_type: text/x-scheme
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection

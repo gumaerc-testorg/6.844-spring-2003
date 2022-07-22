@@ -5,6 +5,7 @@ file: /courses/6-844-computability-theory-of-and-with-scheme-spring-2003/3b5903b
 file_type: text/plain
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: cnvgloadsm.scm
 uid: 3b5903b8-943f-eabc-826e-42c7eca1859a
 ---
 Submodel with parallel convergence operator CNVG?
-

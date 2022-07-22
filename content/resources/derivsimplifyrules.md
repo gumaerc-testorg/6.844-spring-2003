@@ -7,6 +7,7 @@ file: /courses/6-844-computability-theory-of-and-with-scheme-spring-2003/4a1e7f3
 file_type: text/plain
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: derivsimplifyrules.scm
 uid: 4a1e7f30-a984-947c-c81d-a0db872d9543
 ---
 deriv-simplify-rules.scm (SCM) Procedures for simplifying arithmetic expressions with simple derivatives, as explained at the beginning of the file. Load "match.scm" before evaluating this file.
-
