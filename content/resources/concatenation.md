@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-844-computability-theory-of-and-with-scheme-spring-2003/e76d7d500a960f25df43efc39ad5e466_concatenation.pdf
+file_size: 143420
 file_type: application/pdf
 learning_resource_types:
 - Readings

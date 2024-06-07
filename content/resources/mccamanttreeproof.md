@@ -4,6 +4,7 @@ description: 'Scheme code for the conversion of a tree proof to a substitution p
   a purported tree proof of "e = f", return a list of steps in a substitution proof
   of the same fact, inclusive of "e" but exclusive of "f".'
 file: /courses/6-844-computability-theory-of-and-with-scheme-spring-2003/8c07e44b7df1b3907dc6fb5700f2ae99_mccamanttreeproof.scm
+file_size: 5747
 file_type: text/plain
 learning_resource_types:
 - Tools

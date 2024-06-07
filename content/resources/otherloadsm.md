@@ -6,6 +6,7 @@ description: 'Loader files for the Interpreter: other-loadsm.scm (SCM ): To run 
   to the implementation, and then evaluate this load-file in a directory containing
   match.scm (SCM) and sm.scm (SCM)'
 file: /courses/6-844-computability-theory-of-and-with-scheme-spring-2003/d64e7a2e428c0c0377311c3d77113713_otherloadsm.scm
+file_size: 1995
 file_type: text/plain
 learning_resource_types:
 - Tools

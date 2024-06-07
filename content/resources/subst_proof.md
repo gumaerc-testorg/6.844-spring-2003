@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Exercise: Convert a tree proof to a substitution proof'
 file: /courses/6-844-computability-theory-of-and-with-scheme-spring-2003/766c082627b3888c71123f0a81f9671b_subst_proof.pdf
+file_size: 118875
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
