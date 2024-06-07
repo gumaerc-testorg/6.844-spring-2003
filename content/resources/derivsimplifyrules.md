@@ -4,6 +4,7 @@ description: deriv-simplify-rules.scm (SCM) Procedures for simplifying arithmeti
   expressions with simple derivatives, as explained at the beginning of the file.
   Load "match.scm" before evaluating this file.
 file: /courses/6-844-computability-theory-of-and-with-scheme-spring-2003/4a1e7f30a984947cc81da0db872d9543_derivsimplifyrules.scm
+file_size: 11330
 file_type: text/plain
 learning_resource_types:
 - Tools

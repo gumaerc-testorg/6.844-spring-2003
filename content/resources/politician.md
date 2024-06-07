@@ -4,6 +4,7 @@ description: 'First illustration the object constructor concept: the class of St
   with object constructor MAKE-STATE-MACHINE.  Sample expression to evaluate in the
   Substitution Model.'
 file: /courses/6-844-computability-theory-of-and-with-scheme-spring-2003/b61e97e749add33f3195caea76adc59f_politician.scm
+file_size: 1442
 file_type: text/plain
 learning_resource_types:
 - Tools

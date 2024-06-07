@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-844-computability-theory-of-and-with-scheme-spring-2003/19a619a1daad086a4a37d03cbc20d781_project3.pdf
+file_size: 436616
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -5,6 +5,7 @@ description: eliza.scm (SCM) Procedures for a minimal "doctor" dialog program ba
   of items in a list; does not use context variables. Load "match.scm" before evaluating
   this file.
 file: /courses/6-844-computability-theory-of-and-with-scheme-spring-2003/e5fb838377141496fa9e0e706c527a4a_eliza.scm
+file_size: 2186
 file_type: text/plain
 learning_resource_types:
 - Tools
