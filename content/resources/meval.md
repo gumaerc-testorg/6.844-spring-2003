@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-844-computability-theory-of-and-with-scheme-spring-2003/18eccb957a94b4f393b480a10ca5d4f5_meval.scm
+file_size: 10645
 file_type: text/x-scheme
 learning_resource_types:
 - Assignments

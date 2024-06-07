@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-844-computability-theory-of-and-with-scheme-spring-2003/581f6f0f74454749056fb9f637c0b3ff_Unnamed.edwin
+file_size: 1089
 file_type: text/plain
 learning_resource_types:
 - Tools

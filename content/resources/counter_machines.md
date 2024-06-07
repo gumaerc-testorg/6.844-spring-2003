@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-844-computability-theory-of-and-with-scheme-spring-2003/b3cd4c140068033aa77d3531c35ae049_counter_machines.pdf
+file_size: 159412
 file_type: application/pdf
 learning_resource_types:
 - Readings
