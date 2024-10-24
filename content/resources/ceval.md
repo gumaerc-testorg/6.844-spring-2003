@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/6-844-computability-theory-of-and-with-scheme-spring-2003/53d0a6f4b47606cc5779734692f1ee11_ceval.scm
+file: /ol-ocw-studio-app/courses/6-844-computability-theory-of-and-with-scheme-spring-2003/53d0a6f4b47606cc5779734692f1ee11_ceval.scm
 file_size: 17367
 file_type: text/x-scheme
 learning_resource_types:
