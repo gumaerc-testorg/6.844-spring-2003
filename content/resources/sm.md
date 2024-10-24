@@ -4,7 +4,7 @@ description: sm.scm (SCM) A Scheme Substitution Model interpreter based on patte
   rewrite rules. This file begins with a brief intro to the Scheme Substitution Model,
   along with further instructions for running the interpreter. Use a Loader file to
   load the interpreter
-file: /courses/6-844-computability-theory-of-and-with-scheme-spring-2003/94b08770d013cf7eea8c7c8788e84d24_sm.scm
+file: /ol-ocw-studio-app/courses/6-844-computability-theory-of-and-with-scheme-spring-2003/94b08770d013cf7eea8c7c8788e84d24_sm.scm
 file_size: 60214
 file_type: text/plain
 learning_resource_types:
