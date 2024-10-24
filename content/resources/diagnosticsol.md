@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions to diagnostic questionnaire.
-file: /courses/6-844-computability-theory-of-and-with-scheme-spring-2003/39c3997d57203488f4997041be2aa9b1_diagnosticsol.pdf
+file: /ol-ocw-studio-app/courses/6-844-computability-theory-of-and-with-scheme-spring-2003/39c3997d57203488f4997041be2aa9b1_diagnosticsol.pdf
 file_size: 145475
 file_type: application/pdf
 learning_resource_types:

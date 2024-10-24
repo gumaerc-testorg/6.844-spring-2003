@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Submodel with parallel convergence operator CNVG?
-file: /courses/6-844-computability-theory-of-and-with-scheme-spring-2003/3b5903b8943feabc826e42c7eca1859a_cnvgloadsm.scm
+file: /ol-ocw-studio-app/courses/6-844-computability-theory-of-and-with-scheme-spring-2003/3b5903b8943feabc826e42c7eca1859a_cnvgloadsm.scm
 file_size: 1262
 file_type: text/plain
 learning_resource_types:
