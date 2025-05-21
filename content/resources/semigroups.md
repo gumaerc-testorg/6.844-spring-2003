@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/6-844-computability-theory-of-and-with-scheme-spring-2003/9c964077316f0d4b36633294a1c3c214_semigroups.pdf
+file: /courses/6-844-computability-theory-of-and-with-scheme-spring-2003/9c964077316f0d4b36633294a1c3c214_semigroups.pdf
 file_size: 214707
 file_type: application/pdf
 learning_resource_types:
