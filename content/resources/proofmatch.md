@@ -2,7 +2,7 @@
 content_type: resource
 description: Pattern-match based procedure proof-match.scm for converting a sequence-of-equations
   proof into a tree proof
-file: /ol-ocw-studio-app/courses/6-844-computability-theory-of-and-with-scheme-spring-2003/45e3ed1606a374d91dbf6b97a0fc5a99_proofmatch.scm
+file: /courses/6-844-computability-theory-of-and-with-scheme-spring-2003/45e3ed1606a374d91dbf6b97a0fc5a99_proofmatch.scm
 file_size: 7115
 file_type: text/plain
 learning_resource_types:

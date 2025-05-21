@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/6-844-computability-theory-of-and-with-scheme-spring-2003/721a9873161554a6dd430d485a65be7a_edwin.ini
+file: /courses/6-844-computability-theory-of-and-with-scheme-spring-2003/721a9873161554a6dd430d485a65be7a_edwin.ini
 file_size: 1133
 file_type: text/plain
 learning_resource_types:

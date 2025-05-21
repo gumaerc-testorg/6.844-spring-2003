@@ -2,7 +2,7 @@
 content_type: resource
 description: match.scm (SCM) Procedures for pattern matching with "context variables,"
   as explained at the beginning of the file.
-file: /ol-ocw-studio-app/courses/6-844-computability-theory-of-and-with-scheme-spring-2003/8112d6018e07f3f62390a92f1b8247f2_match.scm
+file: /courses/6-844-computability-theory-of-and-with-scheme-spring-2003/8112d6018e07f3f62390a92f1b8247f2_match.scm
 file_size: 30429
 file_type: text/plain
 learning_resource_types:
