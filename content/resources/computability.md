@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/6-844-computability-theory-of-and-with-scheme-spring-2003/60cadbac50de82211027b50645a9f28b_computability.pdf
+file: /courses/6-844-computability-theory-of-and-with-scheme-spring-2003/60cadbac50de82211027b50645a9f28b_computability.pdf
 file_size: 344540
 file_type: application/pdf
 learning_resource_types:
