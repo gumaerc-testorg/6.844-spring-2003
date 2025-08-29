@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Sample expression to evaluate in the Substitution Model.
-file: /courses/6-844-computability-theory-of-and-with-scheme-spring-2003/3b862539b20d7db5311e54ae9c449fb7_testsubmodel.scm
+file: /ol-ocw-studio-app/courses/6-844-computability-theory-of-and-with-scheme-spring-2003/3b862539b20d7db5311e54ae9c449fb7_testsubmodel.scm
 file_size: 12912
 file_type: text/plain
 learning_resource_types:
