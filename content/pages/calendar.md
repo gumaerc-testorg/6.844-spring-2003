@@ -11,7 +11,7 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
-{{% resource_link "fde6d96a-2a54-4ce0-a4d3-6f3eb3319399" "Scheme software" %}} is required to run the .scm files in this section.
+[Scheme software](http://www.gnu.org/software/mit-scheme/) is required to run the .scm files in this section.
 
 This calendar shows the weekly schedule for the course, which usually includes three lecture and group problem solving sessions per week. This calendar provides links to course notes, problem sets, and other relevant resources. These materials are also provided separately in the {{% resource_link "bd583dbd-6c80-e65b-19c5-6a507da5b322" "readings" %}}, {{% resource_link "4e8dd40d-dbff-a8ac-64cc-e9ec108d674c" "assignments" %}}, and {{% resource_link "aaf4057a-bac7-5b9e-89ac-ae095a684679" "tools" %}} sections of this course.
 
@@ -30,7 +30,7 @@ This calendar shows the weekly schedule for the course, which usually includes t
 ### Assignments
 
 - Due at the end of Week 2:
-    - Download {{% resource_link "fde6d96a-2a54-4ce0-a4d3-6f3eb3319399" "Scheme" %}}
+    - Download [Scheme](http://www.gnu.org/software/mit-scheme/)
     - Download Scheme Continuation Interpreter project (Project 3 from 6.001 Fall '02) and submit solutions to Problems 11, 12 and 13
         - A description of continuations ({{% resource_link "01677019-20b6-535d-9974-66c55ca5acab" "PDF" %}})
         - Project 3 description ({{% resource_link "19a619a1-daad-086a-4a37-d03cbc20d781" "PDF" %}})
